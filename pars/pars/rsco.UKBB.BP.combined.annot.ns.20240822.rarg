@@ -1,0 +1,10 @@
+--IDphenotypefile UKBB.BP.20240811.txt
+--inputscorefilespec /results/UKBB.BP.forAnnot.20240814/geneResults/UKBB.BP.forAnnot.20240814.GENE.sco
+--outputfilespec UKBB.BP.combined.annot.ns.20240822.GENE.rsao
+--summaryoutputfile UKBB.BP.combined.annot.ns.20240822.summ.txt
+--geneListFile goodBPgenes.txt
+--varfile ukb23158.common.all.20230806.eigenvec.txt
+--varfile UKBB.sex.20230807.txt 
+--dottest 0
+--dolrtest 0
+--locusweightnamefile UKBB.annot.20231126.wn.par  

@@ -1,0 +1,12 @@
+--arg-file useTheseGenotypes.arg
+--ref-gene-file refseqgenes.hg38.20191018.sorted.onePCDHG.txt
+--reference-path ./
+--margin 0
+--upstream 0 
+--downstream 0
+--ID-and-phenotype-file UKBB.DEMMax2.20240901.txt
+--only-extract-variants 1
+--keep-temp-files 1
+
+
+

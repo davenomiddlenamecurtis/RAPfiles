@@ -1,0 +1,15 @@
+--bed-file ukb23158_c*_b0_v1.bed
+--fam-file ukb23158_c22_b0_v1.fam
+--bim-file ukb23158_c*_b0_v1.bim
+--ref-gene-file refseqgenes.hg38.20191018.sorted.onePCDHG.txt
+--reference-path ./
+--margin 0
+--upstream 0 
+--downstream 0
+--ID-and-phenotype-file UKBB.DEMMax2.20240901.txt
+--only-extract-variants 1
+--add-chr 0
+--keep-temp-files 1
+
+
+

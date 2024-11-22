@@ -1,0 +1,14 @@
+--arg-file gva.UKBB.forAnnot.20231112.arg
+--ID-and-phenotype-file UKBB.migraine.txt
+--test-name UKBB.migraine.forAnnot.20240118
+--lamda 0
+--isquantitative 0 
+--dottest 0 
+--dolrtest 0  
+--maxmaf 0.01
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+--arg-file gva.UKBB.annot.20241006.arg
+--ID-and-phenotype-file UKBB.DEMMax2.withAPOE.20241008.txt
+--test-name UKBB.DEMScore.WGS.annot.20241006
+--lamda 0
+--isquantitative 1
+--dottest 0 
+--dolrtest 0  
+--maxmaf 0.01
+--varfile APOEStatus.470K.txt
+--arg-file gva.quant.exclusionList.20241009.arg
+
+
