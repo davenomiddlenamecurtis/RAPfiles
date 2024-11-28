@@ -1,0 +1,7 @@
+--ID-and-phenotype-file UKBB.earlyAsthma.txt
+--test-name UKBB.asthma.counts.20241128
+--arg-file useTheseGenotypes.arg
+--arg-file gva.UKBB.counts.0.35.20241031.arg
+--isquantitative 1
+--varfile ukb23158.common.all.20230806.eigenvec.txt
+--varfile UKBB.sex.20230807.txt 

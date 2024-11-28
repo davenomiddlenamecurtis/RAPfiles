@@ -1,0 +1,8 @@
+/phenos/UKBB.BP.20240811.txt
+/covars/ukb23158.common.all.20230806.eigenvec.txt
+/covars/UKBB.sex.20230807.txt 
+/pars/UKBB.annot.20231126.wn.par  
+/pars/test.annot.ns.MutationAssessor_rankscore.tst
+/pars/test.annot.ns.MetaLR_rankscore.tst
+/pars/test.annot.ns.MutPred_rankscore.tst
+/pars/test.annot.ns.phastCons100way_vertebrate_rankscore.tst

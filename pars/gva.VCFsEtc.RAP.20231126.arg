@@ -1,0 +1,8 @@
+--bed-file ukb23158_c*_b0_v1.bed
+--fam-file ukb23158_c22_b0_v1.fam
+--bim-file ukb23158_c*_b0_v1.bim
+--add-chr 0
+--unknown-if-untyped 0
+--unknown-if-no-pass 0
+--skip-if-no-pass 0
+--GQ-threshold 0

@@ -1,0 +1,10 @@
+--arg-file gva.UKBB.forAnnot.20231112.arg
+--ID-and-phenotype-file UKBB.earlyAsthma.txt
+--test-name UKBB.asthma.forAnnot.20240610
+--lamda 0
+--isquantitative 0 
+--dottest 0 
+--dolrtest 0  
+--maxmaf 0.01
+
+

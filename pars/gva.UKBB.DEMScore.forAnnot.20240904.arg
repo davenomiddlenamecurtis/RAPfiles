@@ -1,0 +1,10 @@
+--arg-file gva.UKBB.forAnnot.20231112.arg
+--ID-and-phenotype-file UKBB.DEMMax2.20240901.txt
+--test-name UKBB.DEMScore.forAnnot.20240904
+--lamda 0
+--isquantitative 1
+--dottest 0 
+--dolrtest 0  
+--maxmaf 0.01
+
+

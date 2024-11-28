@@ -1,0 +1,462 @@
+++ echo running ./bashrc
+++ '[' -f /etc/bashrc ']'
+++ . /etc/bashrc
++++ '[' '' ']'
++++ shopt -q login_shell
+++ PATH=/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64
+++ PATH=/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64
+++ PATH=/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64
+++ PATH=/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64
+++ PATH=/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64
+++ PATH=/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ PATH=/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ PATH=/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ PATH=/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ export PATH=/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ PATH=/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ export LD_LIBRARY_PATH=/opt/gridengine/lib/lx-amd64:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs
+++ LD_LIBRARY_PATH=/opt/gridengine/lib/lx-amd64:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs
+++ alias h=history
+++ [[ hxB = *i* ]]
+++ [[ '' = yes ]]
++++ register-python-argcomplete dx
++++ sed 's/-o default//'
+/home/rejudcu/.bashrc: line 95: register-python-argcomplete: command not found
+++ eval ''
+++ export PATH=/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin
+++ PATH=/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin
+++ set +x
+KMP_DEVICE_THREAD_LIMIT =
+KMP_ALL_THREADS =
+KMP_TEAMS_THREAD_LIMIT =
+OMP_THREAD_LIMIT = 1
+sourcing /home/rejudcu/.bashrc
+++ echo running ./bashrc
+++ '[' -f /etc/bashrc ']'
+++ . /etc/bashrc
++++ '[' '(base) ' ']'
++++ '[' -z '' ']'
++++ case $TERM in
++++ '[' -e /etc/sysconfig/bash-prompt-default ']'
++++ shopt -s histappend
++++ history -a
++++ shopt -s checkwinsize
++++ '[' '(base) ' = '\s-\v\$ ' ']'
++++ shopt -q login_shell
+++ PATH=/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin
+++ PATH=/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin
+++ PATH=/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin
+++ PATH=/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64
+++ PATH=/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64
+++ PATH=/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ PATH=/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ PATH=/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ PATH=/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ export PATH=/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ PATH=/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ export LD_LIBRARY_PATH=/opt/gridengine/lib/lx-amd64:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs
+++ LD_LIBRARY_PATH=/opt/gridengine/lib/lx-amd64:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs
+++ alias h=history
+++ [[ hxB = *i* ]]
+++ [[ yes = yes ]]
+++ PATH=/share/apps/jdk1.7.0_45/bin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ export JAVA_HOME=/share/apps/jdk1.7.0_21/jre
+++ JAVA_HOME=/share/apps/jdk1.7.0_21/jre
+++ export KNOME=/SAN/biomed/biomed4/Knome/wo192
+++ KNOME=/SAN/biomed/biomed4/Knome/wo192
+++ export GATK_HOME=/cluster/project8/vyp/vincent/Software/GenomeAnalysisTK-3.3-0
+++ GATK_HOME=/cluster/project8/vyp/vincent/Software/GenomeAnalysisTK-3.3-0
+++ export SAMTOOLS_HOME=/share/apps/genomics/samtools-0.1.19
+++ SAMTOOLS_HOME=/share/apps/genomics/samtools-0.1.19
+++ export BPINGEST=/goon2/project99/bipolargenomes_raw/ingest
+++ BPINGEST=/goon2/project99/bipolargenomes_raw/ingest
+++ export BPGENOMES_HOME=/cluster/project8/bipolargenomes/
+++ BPGENOMES_HOME=/cluster/project8/bipolargenomes/
+++ export PROJECTDIR=/cluster/project9/bipolargenomes
+++ PROJECTDIR=/cluster/project9/bipolargenomes
+++ export UCLEXDIR=/SAN/vyplab/UCLex_raw/dave
+++ UCLEXDIR=/SAN/vyplab/UCLex_raw/dave
+++ export GHP_DIR=/home/rejudcu/ghp
+++ GHP_DIR=/home/rejudcu/ghp
+++ export R=/share/apps/R-3.6.1/bin/R
+++ R=/share/apps/R-3.6.1/bin/R
+++ export Rscript=/share/apps/R-3.6.1/bin/Rscript
+++ Rscript=/share/apps/R-3.6.1/bin/Rscript
+++ export 'RUNVEP=perl /share/ref/VEP/ensembl-tools-release-87/scripts/variant_effect_predictor/variant_effect_predictor.pl --cache --dir /share/ref/VEP/Cache --merged --port 3337 --force_overwrite --sift b --polyphen b'
+++ RUNVEP='perl /share/ref/VEP/ensembl-tools-release-87/scripts/variant_effect_predictor/variant_effect_predictor.pl --cache --dir /share/ref/VEP/Cache --merged --port 3337 --force_overwrite --sift b --polyphen b'
+++ export 'RUNVEP=perl /cluster/project9/bipolargenomes/vep/ensembl-vep/vep --cache --dir /cluster/project9/bipolargenomes/vep/Cache97 --merged --port 3337 --force_overwrite --sift b --polyphen b'
+++ RUNVEP='perl /cluster/project9/bipolargenomes/vep/ensembl-vep/vep --cache --dir /cluster/project9/bipolargenomes/vep/Cache97 --merged --port 3337 --force_overwrite --sift b --polyphen b'
+++ export PATH=/home/rejudcu/perl5/bin:/share/apps/jdk1.7.0_45/bin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ PATH=/home/rejudcu/perl5/bin:/share/apps/jdk1.7.0_45/bin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ export PATH=/home/rejudcu/.local/bin:/home/rejudcu/perl5/bin:/share/apps/jdk1.7.0_45/bin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ PATH=/home/rejudcu/.local/bin:/home/rejudcu/perl5/bin:/share/apps/jdk1.7.0_45/bin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
+++ alias 'qclear=qstat | while read a b ; do qmod -c $a; done'
+++ alias q=qstat
+++ alias 'newc=scl enable devtoolset-3 bash'
+++ unalias -- --color
+/home/rejudcu/.bashrc: line 69: unalias: --color: not found
+++ unalias grep
+++ unalias egrep
+++ unalias fgrep
+++ unalias l.
+/home/rejudcu/.bashrc: line 73: unalias: l.: not found
+++ unalias ll
+/home/rejudcu/.bashrc: line 74: unalias: ll: not found
+++ unalias llc
+/home/rejudcu/.bashrc: line 75: unalias: llc: not found
+++ unalias lsc
+/home/rejudcu/.bashrc: line 76: unalias: lsc: not found
+++ export LD_LIBRARY_PATH=/opt/gridengine/lib/lx-amd64:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs:/share/apps/python-3.9.5-shared/lib
+++ LD_LIBRARY_PATH=/opt/gridengine/lib/lx-amd64:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs:/share/apps/python-3.9.5-shared/lib
+++ source /share/apps/source_files/python/python-3.9.5.source
++++ export PATH=/share/apps/python-3.9.5-shared/bin:/home/rejudcu/.local/bin:/home/rejudcu/perl5/bin:/share/apps/jdk1.7.0_45/bin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
++++ PATH=/share/apps/python-3.9.5-shared/bin:/home/rejudcu/.local/bin:/home/rejudcu/perl5/bin:/share/apps/jdk1.7.0_45/bin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989
++++ export LD_LIBRARY_PATH=/share/apps/python-3.9.5-shared/lib:/opt/gridengine/lib/lx-amd64:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs:/share/apps/python-3.9.5-shared/lib
++++ LD_LIBRARY_PATH=/share/apps/python-3.9.5-shared/lib:/opt/gridengine/lib/lx-amd64:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs:/share/apps/python-3.6.4-shared/lib:/home/rejudcu/gperftools/.libs:/share/apps/python-3.9.5-shared/lib
+++ export -f dxupload
+++ export -f dxdownload
++++ register-python-argcomplete dx
++++ sed 's/-o default//'
+++ eval '#compdef dx
+# Run something, muting output or redirecting it to the debug stream
+# depending on the value of _ARC_DEBUG.
+# If ARGCOMPLETE_USE_TEMPFILES is set, use tempfiles for IPC.
+__python_argcomplete_run() {
+    if [[ -z "${ARGCOMPLETE_USE_TEMPFILES-}" ]]; then
+        __python_argcomplete_run_inner "$@"
+        return
+    fi
+    local tmpfile="$(mktemp)"
+    _ARGCOMPLETE_STDOUT_FILENAME="$tmpfile" __python_argcomplete_run_inner "$@"
+    local code=$?
+    cat "$tmpfile"
+    rm "$tmpfile"
+    return $code
+}
+
+__python_argcomplete_run_inner() {
+    if [[ -z "${_ARC_DEBUG-}" ]]; then
+        "$@" 8>&1 9>&2 1>/dev/null 2>&1 </dev/null
+    else
+        "$@" 8>&1 9>&2 1>&9 2>&1 </dev/null
+    fi
+}
+
+_python_argcomplete() {
+    local IFS=$'\''\013'\''
+    local script=""
+    if [[ -n "${ZSH_VERSION-}" ]]; then
+        local completions
+        completions=($(IFS="$IFS" \
+            COMP_LINE="$BUFFER" \
+            COMP_POINT="$CURSOR" \
+            _ARGCOMPLETE=1 \
+            _ARGCOMPLETE_SHELL="zsh" \
+            _ARGCOMPLETE_SUPPRESS_SPACE=1 \
+            __python_argcomplete_run ${script:-${words[1]}}))
+        local nosort=()
+        local nospace=()
+        if is-at-least 5.8; then
+            nosort=(-o nosort)
+        fi
+        if [[ "${completions-}" =~ ([^\\]): && "${match[1]}" =~ [=/:] ]]; then
+            nospace=(-S '\'''\'')
+        fi
+        _describe "${words[1]}" completions "${nosort[@]}" "${nospace[@]}"
+    else
+        local SUPPRESS_SPACE=0
+        if compopt +o nospace 2> /dev/null; then
+            SUPPRESS_SPACE=1
+        fi
+        COMPREPLY=($(IFS="$IFS" \
+            COMP_LINE="$COMP_LINE" \
+            COMP_POINT="$COMP_POINT" \
+            COMP_TYPE="$COMP_TYPE" \
+            _ARGCOMPLETE_COMP_WORDBREAKS="$COMP_WORDBREAKS" \
+            _ARGCOMPLETE=1 \
+            _ARGCOMPLETE_SHELL="bash" \
+            _ARGCOMPLETE_SUPPRESS_SPACE=$SUPPRESS_SPACE \
+            __python_argcomplete_run ${script:-$1}))
+        if [[ $? != 0 ]]; then
+            unset COMPREPLY
+        elif [[ $SUPPRESS_SPACE == 1 ]] && [[ "${COMPREPLY-}" =~ [=/:]$ ]]; then
+            compopt -o nospace
+        fi
+    fi
+}
+if [[ -z "${ZSH_VERSION-}" ]]; then
+    complete -o nospace  -o bashdefault -F _python_argcomplete dx
+else
+    # When called by the Zsh completion system, this will end with
+    # "loadautofunc" when initially autoloaded and "shfunc" later on, otherwise,
+    # the script was "eval"-ed so use "compdef" to register it with the
+    # completion system
+    autoload is-at-least
+    if [[ $zsh_eval_context == *func ]]; then
+        _python_argcomplete "$@"
+    else
+        compdef _python_argcomplete dx
+    fi
+fi'
++++ [[ -z '' ]]
++++ complete -o nospace -o bashdefault -F _python_argcomplete dx
+++ export PATH=/share/apps/python-3.9.5-shared/bin:/home/rejudcu/.local/bin:/home/rejudcu/perl5/bin:/share/apps/jdk1.7.0_45/bin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin
+++ PATH=/share/apps/python-3.9.5-shared/bin:/home/rejudcu/.local/bin:/home/rejudcu/perl5/bin:/share/apps/jdk1.7.0_45/bin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin/:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/home/rejudcu/miniconda3/bin:/home/rejudcu/miniconda3/condabin:/share/apps/genomics/plink-1.9:/share/apps/genomics/htslib-1.14/bin:/share/apps/genomics/bcftools-1.3.1/bin:/share/apps/java/bin:/share/apps/perl/bin:/share/ref/ensemble-tools-release-87/scripts/variant_effect_predictor/htslib:/share/apps/genomics/anaconda2/bin:/home/rejudcu/dbGaP/sratoolkit.2.8.2-1-centos_linux64/bin:/share/apps/shapeit.v2.r778.static:/share/apps/samtools-0.1.19/bin:/home/rejudcu/scoreassoc/bin:/home/rejudcu/scripts:/home/rejudcu/geneVarAssoc/bin:/home/rejudcu/bin:/tmp/4722837.1.cpu.q:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/rocks/bin:/opt/rocks/sbin:/opt/gridengine/bin/lx-amd64:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin:/home/rejudcu/bin:/home/rejudcu/pseq/plinkseq-0.08-x86_64:/share/apps/genomics/ascp-3.5.4.102989:/home/rejudcu/miniconda3/bin
+++ set +x
+setting PATH
+Thu 28 Nov 16:30:44 GMT 2024
+running on saunders-608-8.local
+              total        used        free      shared  buff/cache   available
+Mem:      394483408   254393112     8206172      427092   131884124   138522292
+Swap:       1023996     1023996           0
+Will run this command:
+eval /share/apps/R-3.6.1/bin/Rscript /home/rejudcu/UKBB/UKBBscripts.20220912/getCountsResults.asthma.20241128.R
+[1] "dx cd /results/UKBB.asthma.counts.20241128.AM_prediction/geneResults;dx download UKBB.asthma.counts.20241128.FLG.sao"
+dxpy.exceptions.ResourceNotFound: The specified folder could not be found in project-G45zZjjJK2z0Y3qYPG97VjFZ, code 404. Request Time=1732811452.1505442, Request ID=1732811452190-099241
+/results/UKBB.asthma.counts.20241128.AM_prediction/geneResults: No such file
+or directory found in project project-G45zZjjJK2z0Y3qYPG97VjFZ
+dxpy.utils.resolver.ResolutionError: Unable to resolve "UKBB.asthma.counts.20241128.FLG.sao" to a data object or folder name in '/fileLists'
+Could not resolve "test.counts.for.FLG.tst": Unable to resolve
+"test.counts.for.FLG.tst" to a data object or folder name in '/pars'
+ID                                file-Gx49bfQJK2zKJ9KxX12F2vzk
+Class                             file
+Project                           project-G45zZjjJK2z0Y3qYPG97VjFZ
+Folder                            /pars
+Name                              test.counts.for.FLG.tst
+State                             closing
+Visibility                        visible
+Types                             -
+Properties                        -
+Tags                              -
+Outgoing links                    -
+Created                           Thu Nov 28 16:31:22 2024
+Created by                        davidcurtis
+Last modified                     Thu Nov 28 16:31:23 2024
+Media type                        
+archivalState                     "live"
+cloudAccount                      "cloudaccount-dnanexus"
+Could not resolve "gva.UKBB.asthma.counts.20241128.AM_prediction.arg": Unable
+to resolve "gva.UKBB.asthma.counts.20241128.AM_prediction.arg" to a data
+object or folder name in '/pars'
+ID                                file-Gx49bvjJK2zKkJB50Gj16917
+Class                             file
+Project                           project-G45zZjjJK2z0Y3qYPG97VjFZ
+Folder                            /pars
+Name                              gva.UKBB.asthma.counts.20241128.AM_prediction.arg
+State                             closing
+Visibility                        visible
+Types                             -
+Properties                        -
+Tags                              -
+Outgoing links                    -
+Created                           Thu Nov 28 16:31:47 2024
+Created by                        davidcurtis
+Last modified                     Thu Nov 28 16:31:48 2024
+Media type                        
+archivalState                     "live"
+cloudAccount                      "cloudaccount-dnanexus"
+Could not resolve "for.UKBB.asthma.counts.20241128.AM_prediction.lst": Unable
+to resolve "for.UKBB.asthma.counts.20241128.AM_prediction.lst" to a data
+object or folder name in '/fileLists'
+ID                                file-Gx49bzQJK2zPf9P9jgx92571
+Class                             file
+Project                           project-G45zZjjJK2z0Y3qYPG97VjFZ
+Folder                            /fileLists
+Name                              for.UKBB.asthma.counts.20241128.AM_prediction.lst
+State                             closing
+Visibility                        visible
+Types                             -
+Properties                        -
+Tags                              -
+Outgoing links                    -
+Created                           Thu Nov 28 16:31:58 2024
+Created by                        davidcurtis
+Last modified                     Thu Nov 28 16:31:58 2024
+Media type                        
+archivalState                     "live"
+cloudAccount                      "cloudaccount-dnanexus"
+[1] "dx cd / ; dx run swiss-army-knife -y  --ignore-reuse --instance-type mem3_hdd2_v2_x4 -imount_inputs=FALSE -iin=/scripts/runOnePlinkGeneWithFileList.20241101.sh  -icmd=\"bash runOnePlinkGeneWithFileList.20241101.sh UKBB.asthma.counts.20241128.AM_prediction FLG for.UKBB.asthma.counts.20241128.AM_prediction.lst\""
+
+Using input JSON:
+{
+    "mount_inputs": false,
+    "cmd": "bash runOnePlinkGeneWithFileList.20241101.sh UKBB.asthma.counts.20241128.AM_prediction FLG for.UKBB.asthma.counts.20241128.AM_prediction.lst",
+    "in": [
+        {
+            "$dnanexus_link": {
+                "project": "project-G45zZjjJK2z0Y3qYPG97VjFZ",
+                "id": "file-GvXVZz8JK2zK3gB136k4GZBF"
+            }
+        }
+    ]
+}
+
+Calling app-Gq6v6G096YbXqY5vqqqBy6QZ with output destination
+  project-G45zZjjJK2z0Y3qYPG97VjFZ:/
+
+Job ID: job-Gx49f18JK2z64p0XGfzB2GzZ
+[1] "dx cd /results/UKBB.asthma.counts.20241128.AM_prediction/geneResults;dx download UKBB.asthma.counts.20241128.PRKCQ.sao"
+dxpy.exceptions.ResourceNotFound: The specified folder could not be found in project-G45zZjjJK2z0Y3qYPG97VjFZ, code 404. Request Time=1732811526.5629075, Request ID=1732811526602-634089
+/results/UKBB.asthma.counts.20241128.AM_prediction/geneResults: No such file
+or directory found in project project-G45zZjjJK2z0Y3qYPG97VjFZ
+dxpy.utils.resolver.ResolutionError: Unable to resolve "UKBB.asthma.counts.20241128.PRKCQ.sao" to a data object or folder name in '/'
+Could not resolve "test.counts.for.PRKCQ.tst": Unable to resolve
+"test.counts.for.PRKCQ.tst" to a data object or folder name in '/pars'
+ID                                file-Gx49f3QJK2z434gkZ9PFGPk5
+Class                             file
+Project                           project-G45zZjjJK2z0Y3qYPG97VjFZ
+Folder                            /pars
+Name                              test.counts.for.PRKCQ.tst
+State                             closing
+Visibility                        visible
+Types                             -
+Properties                        -
+Tags                              -
+Outgoing links                    -
+Created                           Thu Nov 28 16:32:14 2024
+Created by                        davidcurtis
+Last modified                     Thu Nov 28 16:32:15 2024
+Media type                        
+archivalState                     "live"
+cloudAccount                      "cloudaccount-dnanexus"
+ID                                file-Gx49f68JK2z6VY7YYK4Vbg52
+Class                             file
+Project                           project-G45zZjjJK2z0Y3qYPG97VjFZ
+Folder                            /pars
+Name                              gva.UKBB.asthma.counts.20241128.AM_prediction.arg
+State                             closing
+Visibility                        visible
+Types                             -
+Properties                        -
+Tags                              -
+Outgoing links                    -
+Created                           Thu Nov 28 16:32:25 2024
+Created by                        davidcurtis
+Last modified                     Thu Nov 28 16:32:26 2024
+Media type                        
+archivalState                     "live"
+cloudAccount                      "cloudaccount-dnanexus"
+ID                                file-Gx49f90JK2z52j5Fb0KxPjfg
+Class                             file
+Project                           project-G45zZjjJK2z0Y3qYPG97VjFZ
+Folder                            /fileLists
+Name                              for.UKBB.asthma.counts.20241128.AM_prediction.lst
+State                             closing
+Visibility                        visible
+Types                             -
+Properties                        -
+Tags                              -
+Outgoing links                    -
+Created                           Thu Nov 28 16:32:36 2024
+Created by                        davidcurtis
+Last modified                     Thu Nov 28 16:32:37 2024
+Media type                        
+archivalState                     "live"
+cloudAccount                      "cloudaccount-dnanexus"
+[1] "dx cd / ; dx run swiss-army-knife -y  --ignore-reuse --instance-type mem3_hdd2_v2_x4 -imount_inputs=FALSE -iin=/scripts/runOnePlinkGeneWithFileList.20241101.sh  -icmd=\"bash runOnePlinkGeneWithFileList.20241101.sh UKBB.asthma.counts.20241128.AM_prediction PRKCQ for.UKBB.asthma.counts.20241128.AM_prediction.lst\""
+
+Using input JSON:
+{
+    "mount_inputs": false,
+    "cmd": "bash runOnePlinkGeneWithFileList.20241101.sh UKBB.asthma.counts.20241128.AM_prediction PRKCQ for.UKBB.asthma.counts.20241128.AM_prediction.lst",
+    "in": [
+        {
+            "$dnanexus_link": {
+                "project": "project-G45zZjjJK2z0Y3qYPG97VjFZ",
+                "id": "file-GvXVZz8JK2zK3gB136k4GZBF"
+            }
+        }
+    ]
+}
+
+Calling app-Gq6v6G096YbXqY5vqqqBy6QZ with output destination
+  project-G45zZjjJK2z0Y3qYPG97VjFZ:/
+
+Job ID: job-Gx49fB8JK2zK34BKyFJ03FQb
+[1] "dx cd /results/UKBB.asthma.counts.20241128.BayesDel_addAF_rankscore/geneResults;dx download UKBB.asthma.counts.20241128.IL33.sao"
+dxpy.exceptions.ResourceNotFound: The specified folder could not be found in project-G45zZjjJK2z0Y3qYPG97VjFZ, code 404. Request Time=1732811562.3521404, Request ID=1732811562391-822739
+/results/UKBB.asthma.counts.20241128.BayesDel_addAF_rankscore/geneResults: No
+such file or directory found in project project-G45zZjjJK2z0Y3qYPG97VjFZ
+dxpy.utils.resolver.ResolutionError: Unable to resolve "UKBB.asthma.counts.20241128.IL33.sao" to a data object or folder name in '/'
+Could not resolve "test.counts.for.IL33.tst": Unable to resolve
+"test.counts.for.IL33.tst" to a data object or folder name in '/pars'
+ID                                file-Gx49fK0JK2zG02620zVpBfGq
+Class                             file
+Project                           project-G45zZjjJK2z0Y3qYPG97VjFZ
+Folder                            /pars
+Name                              test.counts.for.IL33.tst
+State                             closing
+Visibility                        visible
+Types                             -
+Properties                        -
+Tags                              -
+Outgoing links                    -
+Created                           Thu Nov 28 16:32:56 2024
+Created by                        davidcurtis
+Last modified                     Thu Nov 28 16:32:57 2024
+Media type                        
+archivalState                     "live"
+cloudAccount                      "cloudaccount-dnanexus"
+Could not resolve
+"gva.UKBB.asthma.counts.20241128.BayesDel_addAF_rankscore.arg": Unable to
+resolve "gva.UKBB.asthma.counts.20241128.BayesDel_addAF_rankscore.arg" to a
+data object or folder name in '/pars'
+ID                                file-Gx49fVjJK2z601b0Gyzp66P2
+Class                             file
+Project                           project-G45zZjjJK2z0Y3qYPG97VjFZ
+Folder                            /pars
+Name                              gva.UKBB.asthma.counts.20241128.BayesDel_addAF_rankscore.arg
+State                             closing
+Visibility                        visible
+Types                             -
+Properties                        -
+Tags                              -
+Outgoing links                    -
+Created                           Thu Nov 28 16:33:11 2024
+Created by                        davidcurtis
+Last modified                     Thu Nov 28 16:33:12 2024
+Media type                        
+archivalState                     "live"
+cloudAccount                      "cloudaccount-dnanexus"
+Could not resolve
+"for.UKBB.asthma.counts.20241128.BayesDel_addAF_rankscore.lst": Unable to
+resolve "for.UKBB.asthma.counts.20241128.BayesDel_addAF_rankscore.lst" to a
+data object or folder name in '/fileLists'
+ID                                file-Gx49fZ0JK2zFBKq3b1yG6VQf
+Class                             file
+Project                           project-G45zZjjJK2z0Y3qYPG97VjFZ
+Folder                            /fileLists
+Name                              for.UKBB.asthma.counts.20241128.BayesDel_addAF_rankscore.lst
+State                             closing
+Visibility                        visible
+Types                             -
+Properties                        -
+Tags                              -
+Outgoing links                    -
+Created                           Thu Nov 28 16:33:20 2024
+Created by                        davidcurtis
+Last modified                     Thu Nov 28 16:33:21 2024
+Media type                        
+archivalState                     "live"
+cloudAccount                      "cloudaccount-dnanexus"
+[1] "dx cd / ; dx run swiss-army-knife -y  --ignore-reuse --instance-type mem3_hdd2_v2_x4 -imount_inputs=FALSE -iin=/scripts/runOnePlinkGeneWithFileList.20241101.sh  -icmd=\"bash runOnePlinkGeneWithFileList.20241101.sh UKBB.asthma.counts.20241128.BayesDel_addAF_rankscore IL33 for.UKBB.asthma.counts.20241128.BayesDel_addAF_rankscore.lst\""
+
+Using input JSON:
+{
+    "mount_inputs": false,
+    "cmd": "bash runOnePlinkGeneWithFileList.20241101.sh UKBB.asthma.counts.20241128.BayesDel_addAF_rankscore IL33 for.UKBB.asthma.counts.20241128.BayesDel_addAF_rankscore.lst",
+    "in": [
+        {
+            "$dnanexus_link": {
+                "project": "project-G45zZjjJK2z0Y3qYPG97VjFZ",
+                "id": "file-GvXVZz8JK2zK3gB136k4GZBF"
+            }
+        }
+    ]
+}
+
+Calling app-Gq6v6G096YbXqY5vqqqBy6QZ with output destination
+  project-G45zZjjJK2z0Y3qYPG97VjFZ:/
+
+Job ID: job-Gx49ff0JK2zGXJpff7v9y3bG
+Thu 28 Nov 16:33:29 GMT 2024

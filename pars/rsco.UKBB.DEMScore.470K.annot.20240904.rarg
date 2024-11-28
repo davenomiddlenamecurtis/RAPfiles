@@ -1,0 +1,16 @@
+--IDphenotypefile  UKBB.DEMMax2.20240901.txt
+--inputscorefilespec /results/UKBB.DEMScore.forAnnot.20240904/geneResults/UKBB.DEMScore.forAnnot.20240904.GENE.sco
+--outputfilespec UKBB.DEMScore.470K.annot.20240904.GENE.rsao
+--summaryoutputfile UKBB.DEMScore.470K.annot.20240904.summ.txt
+--geneListFile DEMScore.20240904.bestGenes.txt
+--varfile ukb23158.common.all.20230806.eigenvec.txt
+--varfile UKBB.sex.20230807.txt 
+--varfile APOEStatus.470K.txt
+--dottest 0
+--dolrtest 0
+--locusweightnamefile UKBB.annot.20231126.wn.par  
+
+
+
+
+
